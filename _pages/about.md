@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div class="about-text">
+<div class="about-text" markdown="1">
+ 
 
 Hi, I am **Emma Yu-Chen Huang**. I am a pulmonologist from **Taiwan** and currently a PhD candidate in **Bioinformatics and Computational Biology** at the **University of North Carolina at Chapel Hill**.
 
