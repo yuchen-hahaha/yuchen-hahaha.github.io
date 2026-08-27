@@ -8,7 +8,6 @@ redirect_from:
 ---
 <div class="about-text" markdown="1">
  
-
 Hi, I am **Emma Yu-Chen Huang**. I am a pulmonologist from **Taiwan** and currently a PhD candidate in **Bioinformatics and Computational Biology** at the **University of North Carolina at Chapel Hill**.
 
 Before starting my PhD, I spent many years working in pulmonary medicine. I took care of patients with lung disease and critical illness, and my research included asthma, COPD, lung cancer, sleep disorders, and other respiratory diseases.
@@ -28,12 +27,10 @@ I am also working on **JUPITER**, an optimization and statistical approach for p
 More broadly, I am interested in:
 
 - Statistical genomics and computational biology
+- Statistical and mathematical modeling of biological or medical questions
 - Transcriptomics and alternative splicing
-- Gene regulation
-- Immune-mediated diseases
-- Cancer immunology
+- Cancer immunology and immune-mediated diseases
 - Lung disease and sleep disorders
-- Statistical and mathematical modeling of biological questions
 
 ## A little more about me
 
