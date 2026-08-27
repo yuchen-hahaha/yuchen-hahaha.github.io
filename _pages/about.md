@@ -37,7 +37,7 @@ More broadly, I am interested in:
 
 Outside research, I play basketball — usually as a **point guard**. I like being the person who sees the court, moves the ball, and helps connect different parts of the team.
 
-I also play the **drums**. I enjoy the way rhythm, tempo, and different patterns can completely shape the feeling of a song. Drumming has been part of my life for a long time, and it gives me a space to switch off from research, listen, and just enjoy making music.
+I also play the **drums**. I love experimenting with different drum sounds, tempos, and rhythmic patterns, and seeing how they can come together in different ways. For me, the fun is finding a combination that brings out the mood, energy, and character of each song.
 
 Medicine, basketball, music, and computational biology may not seem closely related, but I enjoy all of them for similar reasons. I like problems with many moving parts. I like patterns. And I like figuring out how individual pieces fit together.
 
