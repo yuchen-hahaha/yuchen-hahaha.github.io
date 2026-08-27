@@ -1,16 +1,23 @@
 author:
   avatar : "profile.png"
   name : "Emma Yu-Chen Huang"
-  pronouns : She/Her
   pronouns : "She/Her"
-  bio : "PhD Student | Researcher"
-  location : North Carolina, Chapel Hill 
-  employer : "UNIVERSITY OF NORTH CAROLINA CHAPEL HILL"
+  bio : "PhD Candidate | Pulmonologist | Researcher"
   location : "Chapel Hill, North Carolina"
   employer : "University of North Carolina at Chapel Hill"
   uri :
   email : yuchenh@unc.edu
-  email : 
 
   # Academic websites
-  academia         : # URL
+  academia         :
+  arxiv            :
+  googlescholar    : "https://scholar.google.com/citations?user=snnxCQ8AAAAJ&hl=en"
+  inspire-hep      :
+  impactstory      :
+  orcid            : "https://orcid.org/0000-0001-6682-4035"
+  semantic         :
+  ssrn             :
+  pubmed           :
+  researchgate     :
+  scopus           :
+  zotero           :
