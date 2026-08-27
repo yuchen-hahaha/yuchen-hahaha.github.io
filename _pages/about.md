@@ -43,6 +43,5 @@ Medicine, basketball, music, and computational biology may not seem closely rela
 
 For now, I am enjoying being a student again — learning mathematics, statistics, genomics, and computational methods while bringing with me the clinical questions that first made me curious about disease.
 
-My long term goal is to start from **medicine** and devote to **medicine** by building statistical/mathematical models that help us understand biological questions that matter to patients.
-
+I started from medicine, and I hope to come back to medicine by using statistics, mathematics, and computation to answer biological questions that matter to patients.
 
