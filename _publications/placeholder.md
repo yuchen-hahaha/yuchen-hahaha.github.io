@@ -1,0 +1,4 @@
+---
+title: "Placeholder"
+collection: publications
+---
