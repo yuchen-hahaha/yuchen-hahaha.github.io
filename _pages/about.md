@@ -32,7 +32,4 @@ I investigate **splicing quantitative trait loci (sQTLs) in inflammatory bowel d
 
 I also work on **JUPITER**, a statistical framework designed to prioritize transcripts using genomic and transcriptomic data. The goal of this work is to improve the identification of disease-relevant transcripts and better understand their potential biological roles.
 
-## Academic Service
-
-I contribute to the scientific community through peer review for academic journals, including **BMC Pulmonary Medicine**.
 
