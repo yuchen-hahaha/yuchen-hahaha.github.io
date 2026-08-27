@@ -43,10 +43,6 @@ Medicine, basketball, music, and computational biology may not seem closely rela
 
 For now, I am enjoying being a student again — learning mathematics, statistics, genomics, and computational methods while bringing with me the clinical questions that first made me curious about disease.
 
-My long term goal is to work at the intersection of **medicine, biology, and quantitative science**, and to build models that help us understand biological questions that matter to patients.
+My long term goal is to start from **medicine** and devote to **medicine** by building models that help us understand biological questions that matter to patients.
 
-## Find Me
 
-- [Google Scholar](https://scholar.google.com/citations?user=snnxCQ8AAAAJ&hl=en)
-- [ORCID](https://orcid.org/0000-0001-6682-4035)
-- [GitHub](https://github.com/yuchen-hahaha)
