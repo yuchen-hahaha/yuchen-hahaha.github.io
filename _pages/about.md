@@ -21,7 +21,7 @@ Now, I spend much of my time working with genomic and transcriptomic data and th
 
 My PhD research currently focuses on **splicing quantitative trait loci (sQTLs) in inflammatory bowel disease**. I am interested in how genetic variation affects RNA splicing and how those changes may be related to disease.
 
-I am also working on **JUPITER**, a statistical approach for prioritizing transcripts from genomic and transcriptomic data.
+I am also working on **JUPITER**, a optimization and statistical approach for prioritizing transcripts from genomic and transcriptomic data.
 
 More broadly, I am interested in:
 
@@ -37,12 +37,12 @@ More broadly, I am interested in:
 
 Outside research, I play basketball — usually as a **point guard**. I like being the person who sees the court, moves the ball, and helps connect different parts of the team.
 
-I also play the **drums**. It has been part of my life for a long time, and it is probably one of the best ways for me to stop thinking about research for a while.
+I also play the **drums**. I enjoy the way rhythm, tempo, and different patterns can completely shape the feeling of a song. Drumming has been part of my life for a long time, and it gives me a space to switch off from research, listen, and just enjoy making music.
 
 Medicine, basketball, music, and computational biology may not seem closely related, but I enjoy all of them for similar reasons. I like problems with many moving parts. I like patterns. And I like figuring out how individual pieces fit together.
 
 For now, I am enjoying being a student again — learning mathematics, statistics, genomics, and computational methods while bringing with me the clinical questions that first made me curious about disease.
 
-My long term goal is to start from **medicine** and devote to **medicine** by building models that help us understand biological questions that matter to patients.
+My long term goal is to start from **medicine** and devote to **medicine** by building statistical/mathematical models that help us understand biological questions that matter to patients.
 
 
