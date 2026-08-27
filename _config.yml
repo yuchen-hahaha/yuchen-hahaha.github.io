@@ -20,12 +20,12 @@ repository : "yuchen-hahaha/yuchen-hahaha.github.io"
 author:
   avatar : "profile.png"
   name : "Emma Yu-Chen Huang"
-  pronouns : She/Her
+  pronouns : "She/Her"
   bio : "PhD Student | Researcher"
-  location : North Carolina, Chapel Hill 
-  employer : "UNIVERSITY OF NORTH CAROLINA CHAPEL HILL"
+  location : "Chapel Hill, North Carolina"
+  employer : "University of North Carolina at Chapel Hill"
   uri :
-  email : yuchenh@unc.edu
+  email : 
 
   # Academic websites
   academia         : # URL
