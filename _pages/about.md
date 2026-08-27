@@ -21,7 +21,7 @@ Now, I spend much of my time working with genomic and transcriptomic data and th
 
 My PhD research currently focuses on **splicing quantitative trait loci (sQTLs) in inflammatory bowel disease**. I am interested in how genetic variation affects RNA splicing and how those changes may be related to disease.
 
-I am also working on **JUPITER**, a optimization and statistical approach for prioritizing transcripts from genomic and transcriptomic data.
+I am also working on **JUPITER**, an optimization and statistical approach for prioritizing transcripts from genomic and transcriptomic data.
 
 More broadly, I am interested in:
 
