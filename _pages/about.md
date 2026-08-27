@@ -7,29 +7,46 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am **Emma Yu-Chen Huang**, a PhD candidate and researcher at the **University of North Carolina at Chapel Hill**.
+Hi, I’m **Emma Yu-Chen Huang**. I’m a pulmonologist by training and currently a PhD candidate in **Bioinformatics and Computational Biology** at the **University of North Carolina at Chapel Hill**.
 
-My research lies at the intersection of **computational biology, statistical genomics, and human disease**. I am particularly interested in applying quantitative and computational methods to study **lung disease and sleep disorders, immune-mediated diseases, and cancer immunology**.
+Before starting my PhD, I spent many years working in pulmonary medicine. I took care of patients with lung disease and critical illness, and my research included asthma, COPD, lung cancer, sleep disorders, and other respiratory diseases.
 
-My current work focuses on developing and applying statistical models to analyze genomic and transcriptomic data, with the goal of identifying biologically meaningful genes, transcripts, and regulatory mechanisms that contribute to human disease.
+During those years, I kept running into questions that were difficult to answer from clinical data alone. Why do two patients with the same diagnosis sometimes behave so differently? Why does a treatment work well for one group of patients but not another? What biological mechanisms are hiding underneath the diagnoses we use in the clinic?
 
-## Research Interests
+Those questions are a big part of why I came to computational biology.
 
-- Computational biology and statistical genomics
-- Transcriptomics and gene regulation
-- Lung disease and sleep disorders
+Now, I spend much of my time working with genomic and transcriptomic data and thinking about how statistical models can help us understand biology. I enjoy taking a biological question, finding a way to describe it mathematically, and then seeing what we can learn from the data.
+
+## What I am working on
+
+My PhD research currently focuses on **splicing quantitative trait loci (sQTLs) in inflammatory bowel disease**. I am interested in how genetic variation affects RNA splicing and how those changes may be related to disease.
+
+I am also working on **JUPITER**, a statistical approach for prioritizing transcripts from genomic and transcriptomic data.
+
+More broadly, I am interested in:
+
+- Statistical genomics and computational biology
+- Transcriptomics and alternative splicing
+- Gene regulation
 - Immune-mediated diseases
 - Cancer immunology
-- Molecular QTLs and genetic regulation
+- Lung disease and sleep disorders
+- Statistical and mathematical modeling of biological questions
 
-## Research Projects
+## A little more about me
 
-### Splicing QTLs in Inflammatory Bowel Disease
+Outside research, I play basketball — usually as a **point guard**. I like being the person who sees the court, moves the ball, and helps connect different parts of the team.
 
-I investigate **splicing quantitative trait loci (sQTLs) in inflammatory bowel disease (IBD)**, with an interest in understanding how genetic variation influences alternative splicing and contributes to disease-related molecular mechanisms.
+I also play the **drums**. It has been part of my life for a long time, and it is probably one of the best ways for me to stop thinking about research for a while.
 
-### JUPITER
+Medicine, basketball, music, and computational biology may not seem closely related, but I enjoy all of them for similar reasons. I like problems with many moving parts. I like patterns. And I like figuring out how individual pieces fit together.
 
-I also work on **JUPITER**, a statistical framework designed to prioritize transcripts using genomic and transcriptomic data. The goal of this work is to improve the identification of disease-relevant transcripts and better understand their potential biological roles.
+For now, I am enjoying being a student again — learning mathematics, statistics, genomics, and computational methods while bringing with me the clinical questions that first made me curious about disease.
 
+My long term goal is to work at the intersection of **medicine, biology, and quantitative science**, and to build models that help us understand biological questions that matter to patients.
 
+## Find Me
+
+- [Google Scholar](https://scholar.google.com/citations?user=snnxCQ8AAAAJ&hl=en)
+- [ORCID](https://orcid.org/0000-0001-6682-4035)
+- [GitHub](https://github.com/yuchen-hahaha)
