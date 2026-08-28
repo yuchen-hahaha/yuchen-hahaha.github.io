@@ -18,18 +18,15 @@ Email: [yuchenh@unc.edu](mailto:yuchenh@unc.edu)
 ## Education
 
 **Ph.D. in Bioinformatics and Computational Biology (BCB)**  
-University of North Carolina at Chapel Hill  
-August 2023–Present
+University of North Carolina at Chapel Hill  August 2023–Present
 
 **Research focus:** Identifying splicing quantitative trait loci in patients with inflammatory bowel disease.
 
 **Master of Professional Science in Biomedical and Health Informatics**  
-University of North Carolina at Chapel Hill  
-August 2022–August 2023
+University of North Carolina at Chapel Hill  2022–2023
 
 **Bachelor of Medicine**  
-National Defense Medical Center, Taiwan  
-2005–2012
+National Defense Medical Center, Taiwan  2005–2012
 
 ---
 
