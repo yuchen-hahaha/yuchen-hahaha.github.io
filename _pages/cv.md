@@ -38,16 +38,15 @@ National Defense Medical Center, Taiwan
 ### University of North Carolina at Chapel Hill
 
 **Department of Genetics / Bioinformatics and Computational Biology Program**  
-Graduate Research Assistant  
-August 2023–Present
+Graduate Research Assistant  August 2023–Present
+
 Teaching Assistant — BCB 720, Introduction to Statistical Modeling 2025 Fall  
+
 **Marsico Lung Institute**  
-Summer Intern  
-May–July 2023
+Summer Intern  May–July 2023
 
 **Biomedical and Health Informatics Master's Program**  
 Teaching Assistant — CHIP 490, Methods in Health Informatics 2023 Spring
-
 
 ### Chang Gung Memorial Hospital, Linkou, Taiwan
 
