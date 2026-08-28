@@ -40,14 +40,14 @@ National Defense Medical Center, Taiwan
 **Department of Genetics / Bioinformatics and Computational Biology Program**  
 Graduate Research Assistant  
 August 2023–Present
-
+Teaching Assistant — BCB 720, Introduction to Statistical Modeling 2025 Fall  
 **Marsico Lung Institute**  
 Summer Intern  
 May–July 2023
 
 **Biomedical and Health Informatics Master's Program**  
-Teaching Assistant — CHIP 490, Methods in Health Informatics  
-January–April 2023
+Teaching Assistant — CHIP 490, Methods in Health Informatics 2023 Spring
+
 
 ### Chang Gung Memorial Hospital, Linkou, Taiwan
 
@@ -55,8 +55,6 @@ January–April 2023
 
 Academic Tract, Assistant Professor, and Attending Physician  
 September 2022–December 2023
-
-*Formal employment relationship: August 1, 2012–December 31, 2023. Approved leave without pay from August 1, 2022 through separation. Remained on approved leave without pay throughout the Assistant Professor rank until formal separation on December 31, 2023.*
 
 Academic Tract, Lecturer, and Attending Physician  
 July 2020–August 2022
