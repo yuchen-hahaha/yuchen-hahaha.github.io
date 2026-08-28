@@ -42,7 +42,7 @@ Medicine, basketball, music, and computational biology may not seem closely rela
 
 For now, I am enjoying being a student again — learning mathematics, statistics, genomics, and computational methods while bringing with me the clinical questions that first made me curious about disease.
 
-I started in medicine, and I want to bring what I learn in mathematics, statistics, and computation into it. Along the way, I hope to learn how to build statistical models to answer medical or biological questions that matter to patients.
+I started in medicine, and I want to bring what I learn in mathematics, statistics, and computational biology back into it. 
 
 
 </div>
