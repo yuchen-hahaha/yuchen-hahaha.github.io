@@ -1,6 +1,6 @@
 ---
 permalink: /grants/
-title: "Research Grants"
+title: ""
 author_profile: true
 ---
 
