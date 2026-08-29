@@ -10,7 +10,7 @@ Hi, I am **Emma Yu-Chen Huang**. I do research, ask too many questions, and some
 
 ### What I am working on
 
-My PhD research currently focuses on **splicing quantitative trait loci (sQTLs) in inflammatory bowel disease**. I am interested in how genetic variation affects RNA splicing and how those changes may be related to disease.
+I am focusing on **splicing quantitative trait loci (sQTLs) in inflammatory bowel disease**. I am interested in how genetic variation affects RNA splicing and how those changes may be related to disease.
 
 I am also working on **JUPITER**, an optimization and statistical approach for prioritizing transcripts from genomic and transcriptomic data.
 
