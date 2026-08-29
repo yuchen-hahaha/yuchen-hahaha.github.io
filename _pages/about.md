@@ -3,10 +3,7 @@ permalink: /about/
 title: "About Me"
 author_profile: true
 ---
-<div class="about-text" markdown="1">
  
-Hi, I am **Emma Yu-Chen Huang**. 
-
 I am a pulmonologist from **Taiwan** and currently a PhD candidate in **Bioinformatics and Computational Biology** at the **University of North Carolina at Chapel Hill**.
 
 ## What I am working on
@@ -43,4 +40,4 @@ For now, I am enjoying being a student again — learning mathematics, statistic
 
 I started in medicine, and I hope to bring what I learn along the way back into it, using these tools to better understand biological or medical questions that matter to patients.
 
-</div>
+ 
