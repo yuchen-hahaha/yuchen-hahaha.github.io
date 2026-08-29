@@ -7,6 +7,7 @@ author_profile: true
 <div class="about-text" markdown="1">
 
 Hi, I am **Emma Yu-Chen Huang**. 
+
 ## What I am working on
 
 My PhD research currently focuses on **splicing quantitative trait loci (sQTLs) in inflammatory bowel disease**. I am interested in how genetic variation affects RNA splicing and how those changes may be related to disease.
