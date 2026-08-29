@@ -6,7 +6,7 @@ redirect_from:
   - /resume
 ---
 
-# Emma Yu-Chen Huang
+## Emma Yu-Chen Huang
 
 **PhD Candidate in Bioinformatics and Computational Biology**  
 University of North Carolina at Chapel Hill
@@ -18,15 +18,15 @@ Email: [yuchenh@unc.edu](mailto:yuchenh@unc.edu)
 ## Education
 
 **Ph.D. in Bioinformatics and Computational Biology (BCB)**  
-University of North Carolina at Chapel Hill  August 2023–Present
+University of North Carolina at Chapel Hill, August 2023–Present
 
 **Research focus:** Identifying splicing quantitative trait loci in patients with inflammatory bowel disease.
 
 **Master of Professional Science in Biomedical and Health Informatics**  
-University of North Carolina at Chapel Hill  2022–2023
+University of North Carolina at Chapel Hill, 2022–2023
 
 **Bachelor of Medicine**  
-National Defense Medical Center, Taiwan  2005–2012
+National Defense Medical Center, Taiwan, 2005–2012
 
 ---
 
@@ -35,39 +35,33 @@ National Defense Medical Center, Taiwan  2005–2012
 ### University of North Carolina at Chapel Hill
 
 **Department of Genetics / Bioinformatics and Computational Biology Program**  
-Graduate Research Assistant  August 2023–Present
+Graduate Research Assistant, August 2023–Present
 
-Teaching Assistant — BCB 720, Introduction to Statistical Modeling 2025 Fall  
+Teaching Assistant — BCB 720, Introduction to Statistical Modeling, 2025 Fall  
 
 **Marsico Lung Institute**  
-Summer Intern  May–July 2023
+Summer Intern, May 2023–July 2023
 
 **Biomedical and Health Informatics Master's Program**  
-Teaching Assistant — CHIP 490, Methods in Health Informatics 2023 Spring
+Teaching Assistant — CHIP 490, Methods in Health Informatics, 2023 Spring
 
 ### Chang Gung Memorial Hospital, Linkou, Taiwan
 
 **Department of Pulmonary Medicine / Respiratory Diseases**
 
-Academic Tract, Assistant Professor, and Attending Physician  
-September 2022–December 2023
+Academic Tract, Assistant Professor, and Attending Physician, September 2022–December 2023
 
-Academic Tract, Lecturer, and Attending Physician  
-July 2020–August 2022
+Academic Tract, Lecturer, and Attending Physician, July 2020–August 2022
 
-Attending Physician  
-September 2018–June 2020
+Attending Physician, September 2018–June 2020
 
-Pulmonary / Thoracic Medicine Fellowship  
-July 2016–September 2018
+Pulmonary / Thoracic Medicine Fellowship, July 2016–September 2018
 
 **Department of Internal Medicine**
 
-Residency  
-September 2013–July 2016
+Residency, September 2013–July 2016
 
-General Residency  
-August 2012–June 2013
+General Residency, August 2012–June 2013
 
 ---
 
