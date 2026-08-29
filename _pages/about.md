@@ -6,7 +6,7 @@ author_profile: true
  
 I am a pulmonologist from **Taiwan** and currently a PhD candidate in **Bioinformatics and Computational Biology** at the **University of North Carolina at Chapel Hill**.
 
-## Why I came to computational biology ...
+### Why I came to computational biology ...
 
 Before starting my PhD, I spent many years working in pulmonary medicine. I took care of patients with lung disease and critical illness, and my research included asthma, COPD, lung cancer, sleep disorders, and other respiratory diseases.
 
@@ -16,7 +16,7 @@ Those questions are a big part of why I came to computational biology.
 
 Now, I spend much of my time working with genomic and transcriptomic data and thinking about how statistical models can help us understand biology. I enjoy taking a biological question, finding a way to describe it mathematically, and then seeing what we can learn from the data.
 
-## Outside Research ...
+### Outside Research ...
 
 I play basketball — usually as a **point guard**. I like being the person who sees the court, moves the ball, and helps connect different parts of the team.
 
