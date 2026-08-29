@@ -6,7 +6,7 @@ author_profile: true
 
 <div class="about-text" markdown="1">
 
-Hi, I am **Emma Yu-Chen Huang**. Welcome to my homepage!
+Hi, I am **Emma Yu-Chen Huang**. I do research, ask too many questions, and somehow ended up with a website. Welcome!
 
 ### What I am working on
 
