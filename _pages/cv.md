@@ -1,6 +1,6 @@
 ---
 permalink: /cv/
-title: "Curriculum Vitae"
+title: ""
 author_profile: true
 redirect_from:
   - /resume
