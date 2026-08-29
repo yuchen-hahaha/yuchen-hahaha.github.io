@@ -1,6 +1,9 @@
 main:
-  - title: "About"
+  - title: "My Homepage"
     url: /
+
+  - title: "About Me"
+    url: /about/
 
   - title: "Research"
     url: /research/
