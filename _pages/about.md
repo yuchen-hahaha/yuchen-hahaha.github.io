@@ -5,7 +5,23 @@ author_profile: true
 ---
 <div class="about-text" markdown="1">
  
+Hi, I am **Emma Yu-Chen Huang**. 
+
 I am a pulmonologist from **Taiwan** and currently a PhD candidate in **Bioinformatics and Computational Biology** at the **University of North Carolina at Chapel Hill**.
+
+## What I am working on
+
+My PhD research currently focuses on **splicing quantitative trait loci (sQTLs) in inflammatory bowel disease**. I am interested in how genetic variation affects RNA splicing and how those changes may be related to disease.
+
+I am also working on **JUPITER**, an optimization and statistical approach for prioritizing transcripts from genomic and transcriptomic data.
+
+More broadly, I am interested in:
+
+* Statistical genomics and computational biology
+* Statistical and mathematical modeling of biological or medical questions
+* Transcriptomics and alternative splicing
+* Cancer immunology and immune-mediated diseases
+* Lung disease and sleep disorders
 
 Before starting my PhD, I spent many years working in pulmonary medicine. I took care of patients with lung disease and critical illness, and my research included asthma, COPD, lung cancer, sleep disorders, and other respiratory diseases.
 
@@ -26,6 +42,5 @@ Medicine, basketball, music, and computational biology may not seem closely rela
 For now, I am enjoying being a student again — learning mathematics, statistics, genomics, and computational methods while bringing with me the clinical questions that first made me curious about disease.
 
 I started in medicine, and I hope to bring what I learn along the way back into it, using these tools to better understand biological or medical questions that matter to patients.
-
 
 </div>
