@@ -1,12 +1,12 @@
 ---
 permalink: /cv/
-title: "CV"
+title: ""
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-## Emma Yu-Chen Huang
+### Emma Yu-Chen Huang
 
 **PhD Candidate in Bioinformatics and Computational Biology**  
 University of North Carolina at Chapel Hill
@@ -15,7 +15,7 @@ Email: [yuchenh@unc.edu](mailto:yuchenh@unc.edu)
 
 ---
 
-## Education
+### Education
 
 **Ph.D. in Bioinformatics and Computational Biology (BCB)**  
 University of North Carolina at Chapel Hill, August 2023–Present
@@ -30,9 +30,9 @@ National Defense Medical Center, Taiwan, 2005–2012
 
 ---
 
-## Positions and Employment
+### Positions and Employment
 
-### University of North Carolina at Chapel Hill
+#### University of North Carolina at Chapel Hill
 
 **Department of Genetics / Bioinformatics and Computational Biology Program**  
 Graduate Research Assistant, August 2023–Present
@@ -45,7 +45,7 @@ Summer Intern, May 2023–July 2023
 **Biomedical and Health Informatics Master's Program**  
 Teaching Assistant — CHIP 490, Methods in Health Informatics, 2023 Spring
 
-### Chang Gung Memorial Hospital, Linkou, Taiwan
+#### Chang Gung Memorial Hospital, Linkou, Taiwan
 
 **Department of Pulmonary Medicine / Respiratory Diseases**
 
@@ -65,7 +65,7 @@ General Residency, August 2012–June 2013
 
 ---
 
-## Honors
+### Honors
 
 **Excellent Journal Award**, Chang Gung Memorial Hospital, 2019  
 Institutional award recognizing the publication *Endotypes of severe allergic asthma patients who clinically benefit from anti-IgE therapy* in a high-impact journal.
@@ -78,23 +78,23 @@ Annual recognition for ranking among the top three in the qualification examinat
 
 ---
 
-## Publications
+### Publications
 
 For a complete publication list, please visit my [Publications page](/publications/).
 
-### Computational Biology and Bioinformatics
+#### Computational Biology and Bioinformatics
 
 1. Natalie Stanley, Luvna Dhawka, Sneha Jaikumar, **Yu-Chen Huang**, Anthony S. Zannas. *Microglia Single-Cell RNA-Seq Enables Robust and Applicable Markers of Biological Aging.* **Aging Cell.** 2025;24(8):e70095.
 
 2. Nolan H. Hamilton, **Yu-Chen E. Huang**, Benjamin D. McMichael, Michael I. Love, Terrence S. Furey. *Genome-Wide Uncertainty-Moderated Extraction of Signal Annotations from Multi-Sample Functional Genomics Data.* **bioRxiv.** 2025.
 
-### Biomedical Engineering
+#### Biomedical Engineering
 
 1. **Yu-Chen Huang**, Ting-Yu Lin, Hau-Tieng Wu, Po-Jui Chang, Chun-Yu Lo, Tsai-Yu Wang, Chih-Hsi Scott Kuo, Shu-Min Lin, Fu-Tsai Chung, Horng-Chyuan Lin, Meng-Heng Hsieh, Yu-Lun Lo. *Cardiorespiratory coupling is associated with exercise capacity in patients with chronic obstructive pulmonary disease.* **BMC Pulmonary Medicine.** 2021;21:22.
 
 2. Shih-Wei Lee, **Yu-Chen Huang**, Chun-Yu Lin, Hung-Yu Huang, Chi-Wei Liu, Ming-Tsuen Hsieh, Chon-Lin Lee, Wen-Yu Chung, Kian Fan Chung, Chun-Hua Wang, Han-Pin Kuo. *Impact of annual exposure to polycyclic aromatic hydrocarbons on acute exacerbation frequency in asthmatic patients.* **Journal of Asthma and Allergy.** 2021;14:81-90.
 
-### Biology and Immunology
+#### Biology and Immunology
 
 1. **Yu-Chen Huang**, Chih-Ming Weng, Meng-Jung Lee, Shu-Min Lin, Chun-Hua Wang, Han-Pin Kuo. *Endotypes of severe allergic asthma patients who clinically benefit from anti-IgE therapy.* **Clinical and Experimental Allergy.** 2018;49(1):44-53.
 
@@ -108,7 +108,7 @@ For a complete publication list, please visit my [Publications page](/publicatio
 
 6. **Yu-Chen Huang**, Chih-Ming Weng, Meng-Jung Lee, Chun-Hua Wang, Han-Pin Kuo. *Interleukin-17A implicated in survival outcome of patients with late-stage lung adenocarcinoma.* **European Respiratory Society Congress.** 2018.
 
-### Clinical Studies
+#### Clinical Studies
 
 1. **Yu-Chen Huang**, Shih-Min Shen, Chien-Ying Liu, Stelios Pavlidis, Chih-Liang Wang, How-Wen Ko, Fu-Tsai Chung, Tin-Yu Lin, Po-Hao Feng, Kang-Yun Lee, Yi-Ke Guo, Cheng-Ta Yang, Chih-Hsi Scott Kuo. *Impact of prolonged and early bevacizumab treatment on the overall survival of EGFR-mutant and EGFR-wild-type nonsquamous non-small cell lung cancer: Bevacizumab treatment strategies.* **Thoracic Cancer.** 2018;9(12):1648-1655.
 
@@ -132,9 +132,9 @@ For a complete publication list, please visit my [Publications page](/publicatio
 
 ---
 
-## Research Grants
+### Research Grants
 
-### Taiwan Ministry of Science and Technology Grant 107-2314-B-182A-145-MY2
+#### Taiwan Ministry of Science and Technology Grant 107-2314-B-182A-145-MY2
 
 **Co-Principal Investigator**  
 August 2018–July 2019
@@ -143,7 +143,7 @@ August 2018–July 2019
 
 **Goals:** Quantify cardiorespiratory coupling and evaluate its ability to predict hospitalization.
 
-### Taiwan Ministry of Science and Technology Grant 110-2314-B-182A-141-MY3
+#### Taiwan Ministry of Science and Technology Grant 110-2314-B-182A-141-MY3
 
 **Co-Principal Investigator; lead author of the proposal**  
 August 2021–December 2025
@@ -154,9 +154,9 @@ August 2021–December 2025
 
 ---
 
-## Presentations
+### Presentations
 
-### Invited Presentations
+#### Invited Presentations
 
 **GlaxoSmithKline, Inc. — Taipei, Taiwan**  
 March 2021  
@@ -174,7 +174,7 @@ November 2020
 May 2020  
 *Rehabilitation in connective-tissue-disease-associated and systemic-sclerosis-associated interstitial lung disease.*
 
-### Conference Presentations
+#### Conference Presentations
 
 **European Respiratory Society Annual Meeting — Paris, France**  
 September 2018  
