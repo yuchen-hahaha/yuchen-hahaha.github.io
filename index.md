@@ -1,9 +1,8 @@
 ---
-
 permalink: /
-title: "My Homepage"
+title: "Homepage"
 author_profile: true
---------------------
+---
 
 <div class="about-text" markdown="1">
 
