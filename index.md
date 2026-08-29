@@ -6,11 +6,13 @@ author_profile: true
 
 <div class="about-text" markdown="1">
 
-Hi, I am **Emma Yu-Chen Huang**. I do research, ask too many questions, and somehow ended up with a website. Welcome!
+Hi, I am **Emma Yu-Chen Huang**. 
+
+I do research, ask too many questions, and somehow ended up with a website. Welcome!
 
 ### What I am working on
 
-I am focusing on **splicing quantitative trait loci (sQTLs) in inflammatory bowel disease**. I am interested in how genetic variation affects RNA splicing and how those changes may be related to disease.
+I am working on **splicing quantitative trait loci (sQTLs) in inflammatory bowel disease**. I am interested in how genetic variation affects RNA splicing and how those changes may be related to disease.
 
 I am also working on **JUPITER**, an optimization and statistical approach for prioritizing transcripts from genomic and transcriptomic data.
 
