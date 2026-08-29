@@ -10,7 +10,7 @@ site_theme               : "default" # The available themes options are "default
                                              # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
-title                    : "Emma Yu-Chen Huang"
+title                    : "My Homepage"
 name                     : &name "Emma Yu-Chen Huang"
 description              : &description "Academic website of Emma Yu-Chen Huang"
 url                      : https://yuchen-hahaha.github.io
@@ -23,7 +23,7 @@ repository               : "yuchen-hahaha/yuchen-hahaha.github.io"
 
 author:
   avatar           : "profile.png"
-  name             : "My Homepage"
+  name             : "Emma Yu-Chen Huang"
   pronouns         : "She/Her"
   bio              : "PhD Candidate | Pulmonologist | Researcher"
   location         : "Chapel Hill, North Carolina"
