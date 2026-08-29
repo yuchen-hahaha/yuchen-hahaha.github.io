@@ -8,7 +8,7 @@ author_profile: true
 
 Hi, I am **Emma Yu-Chen Huang**. 
 
-I do research, ask too many questions, and somehow ended up with a website. Welcome!
+I do research, ask too many questions, and built this website to make sense of some of them. Welcome!
 
 ### What I am working on
 
