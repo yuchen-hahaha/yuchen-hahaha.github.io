@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Research"
+title: ""
 author_profile: true
 ---
 
@@ -29,7 +29,7 @@ My previous research has focused extensively on pulmonary and respiratory diseas
 - Lung cancer
 - Obstructive sleep apnea
 - Pulmonary infections and critical illness
-- Respiratory physiology
+- Respiratory Signals 
 
 My work has incorporated clinical studies, immunological investigation, physiological signal analysis, and computational approaches.
 
