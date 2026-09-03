@@ -32,7 +32,7 @@ National Defense Medical Center, Taiwan, 2005–2012
 
 ### Positions and Employment
 
-#### University of North Carolina at Chapel Hill
+### University of North Carolina at Chapel Hill
 
 **Department of Genetics / Bioinformatics and Computational Biology Program**  
 Graduate Research Assistant, August 2023–Present
@@ -45,7 +45,7 @@ Summer Intern, May 2023–July 2023
 **Biomedical and Health Informatics Master's Program**  
 Teaching Assistant — CHIP 490, Methods in Health Informatics, 2023 Spring
 
-#### Chang Gung Memorial Hospital, Linkou, Taiwan
+### Chang Gung Memorial Hospital, Linkou, Taiwan
 
 **Department of Pulmonary Medicine / Respiratory Diseases**
 
