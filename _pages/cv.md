@@ -73,9 +73,6 @@ Institutional award recognizing the publication *Endotypes of severe allergic as
 **Best Teaching Resident Physician**, Chang Gung Memorial Hospital, 2017 and 2018  
 Annual award based on teaching evaluations from students.
 
-**Best Resident Physician**, Chang Gung Memorial Hospital, 2015, 2016, 2017, and 2018  
-Annual recognition for ranking among the top three in the qualification examination.
-
 ---
 
 ### Publications
