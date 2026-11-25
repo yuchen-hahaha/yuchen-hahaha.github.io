@@ -49,7 +49,7 @@ Teaching Assistant — CHIP 490, Methods in Health Informatics, 2023 Spring
 
 **Department of Pulmonary Medicine / Respiratory Diseases**
 
-Academic Tract, Assistant Professor, and Attending Physician, September 2022–December 2023
+Academic Tract, Assistant Professor, and Attending Physician, September 2022–December 2023 (Tenure)
 
 Academic Tract, Lecturer, and Attending Physician, July 2020–August 2022
 
@@ -71,7 +71,7 @@ General Residency, August 2012–June 2013
 Institutional award recognizing the publication *Endotypes of severe allergic asthma patients who clinically benefit from anti-IgE therapy* in a high-impact journal.
 
 **Best Teaching Resident Physician**, Chang Gung Memorial Hospital, 2017 and 2018  
-Annual award based on teaching evaluations from students.
+Annual award based on student teaching evaluations.
 
 ---
 
@@ -84,6 +84,10 @@ For a complete publication list, please visit my [Publications page](/publicatio
 1. Natalie Stanley, Luvna Dhawka, Sneha Jaikumar, **Yu-Chen Huang**, Anthony S. Zannas. *Microglia Single-Cell RNA-Seq Enables Robust and Applicable Markers of Biological Aging.* **Aging Cell.** 2025;24(8):e70095.
 
 2. Nolan H. Hamilton, **Yu-Chen E. Huang**, Benjamin D. McMichael, Michael I. Love, Terrence S. Furey. *Genome-Wide Uncertainty-Moderated Extraction of Signal Annotations from Multi-Sample Functional Genomics Data.* **bioRxiv.** 2025.
+   
+3. **Emma Yu-Chen Huang**, Shuying Han, Nolan H. Hamilton, Nina C. Nishiyama, Shehzad Z. Sheikh, Terrence S. Furey. *Genome-Wide Uncertainty-Moderated Extraction of Signal Annotations from Multi-Sample Functional Genomics Data.* **bioRxiv.** 2026.
+
+4. Shuying Han, **Emma Yu-Chen Huang**, Sophie Silverstein, Caroline Beasley, Muneera R. Kapadia, Gwen Lau, Grace Lian, Reza Rahbar, Timothy S. Sadiq, Matthew R. Schaner, Jonathan Stem, David Weaver, Benjamin Huan, Ariana LaCorte, Shehzad Z. Sheikh, Terrence S. Furey *Transcriptome-wide Differential Expression and Splicing in Inflammatory Bowel Disease Patients.* **bioRxiv.** 2026.
 
 #### Biomedical Engineering
 
