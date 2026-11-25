@@ -130,9 +130,13 @@ For a complete publication list, please visit my [Publications page](/publicatio
 9. Wen-Jui Chang, Hsin-Yao Wang, **Yu-Chen Huang**, Chun-Yu Lin, Shaw-Woei Liu, Meng-Jer Hsieh, Chung-Chi Huang. *Outcomes of herpes simplex virus pneumonitis in critically ill patients.* **Viruses.** 2022;14(2):205.
 
 10. Yu-Chiang Wang, Wan-Ying Lin, Yi-Ju Tzeng, Yiwen Fu, Weijia Li, **Yu-Chen Huang**, Hsin-Yao Wang. *Risk stratification for herpes simplex virus pneumonia using elastic net penalized Cox proportional hazard algorithm with enhanced explainability.* **Journal of Clinical Medicine.** 2023;12(13):4489.
+    
 ---
+
 ### Service 
+
 #### Editorial Board Member, Review Editor 
+
 **BMC Pulmonary Medicine**
 November 2026/9-Present
 
