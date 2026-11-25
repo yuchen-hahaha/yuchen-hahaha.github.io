@@ -85,9 +85,9 @@ For a complete publication list, please visit my [Publications page](/publicatio
 
 2. Nolan H. Hamilton, **Yu-Chen E. Huang**, Benjamin D. McMichael, Michael I. Love, Terrence S. Furey. *Genome-Wide Uncertainty-Moderated Extraction of Signal Annotations from Multi-Sample Functional Genomics Data.* **bioRxiv.** 2025.
    
-3. **Emma Yu-Chen Huang**, Shuying Han, Nolan H. Hamilton, Nina C. Nishiyama, Shehzad Z. Sheikh, Terrence S. Furey. *Genome-Wide Uncertainty-Moderated Extraction of Signal Annotations from Multi-Sample Functional Genomics Data.* **bioRxiv.** 2026.
+3. **Emma Yu-Chen Huang**, Shuying Han, Nolan H. Hamilton, Nina C. Nishiyama, Shehzad Z. Sheikh, Terrence S. Furey. *Beyond Abundance: Integrated Splicing and Expression Quantitative Trait Loci Refine Causal Gene Mapping in IBD* **bioRxiv.** 2026.
 
-4. Shuying Han, **Emma Yu-Chen Huang**, Sophie Silverstein, Caroline Beasley, Muneera R. Kapadia, Gwen Lau, Grace Lian, Reza Rahbar, Timothy S. Sadiq, Matthew R. Schaner, Jonathan Stem, David Weaver, Benjamin Huan, Ariana LaCorte, Shehzad Z. Sheikh, Terrence S. Furey *Transcriptome-wide Differential Expression and Splicing in Inflammatory Bowel Disease Patients.* **bioRxiv.** 2026.
+4. Shuying Han, **Emma Yu-Chen Huang**, Sophie Silverstein, Caroline Beasley, Muneera R. Kapadia, Gwen Lau, Grace Lian, Reza Rahbar, Timothy S. Sadiq, Matthew R. Schaner, Jonathan Stem, David Weaver, Benjamin Huan, Ariana LaCorte, Shehzad Z. Sheikh, Terrence S. Furey. *Transcriptome-wide Differential Expression and Splicing in Inflammatory Bowel Disease Patients.* **bioRxiv.** 2026.
 
 #### Biomedical Engineering
 
